@@ -84,7 +84,7 @@ export default CreatePost;
 * none
 * ------------------------------
 * Output Comments:  (Enter "none" if you have no comments)
-* n/a
+* none
 * ------------------------------
 * Additional Comments:
 * Question: Did you have to write any unusual code? 

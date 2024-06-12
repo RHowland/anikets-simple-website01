@@ -17,16 +17,16 @@ Quick Start Explanation:
 
   b. Fill in the blanks and answer the questions.  
 
+
 - After you have MODIFIED an existing component, 
-  -- AND -- 
+  -- AND/OR -- 
   If that component DOES NOT have an ORIGINAL documentation block, 
   -- THEN --  
     a. Copy the Contents from the ORIGINAL template 
        and paste it at the end of the component file and then 
-    b. Fill in the blanks and answer the ORIGINAL docs questions.  
-    c. Next, copy the Contents from the REVISION template 
-       and paste it AFTER the ORIGINAL documentation block and then 
-    d. Fill in the blanks and answer the REVISION docs questions.  
+    b. Fill in the blanks and answer the ORIGINAL docs questions
+       including your revision details.  
+
 
 - After you have MODIFIED an existing component, 
   -- AND -- 
